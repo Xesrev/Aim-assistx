@@ -52,4 +52,4 @@ public class AimTriggerMod {
         aimAssist.onTick();
         triggerBot.onTick();
     }
-}
+} 
